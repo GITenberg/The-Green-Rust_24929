@@ -1,0 +1,31 @@
+_repo: The-Green-Rust_24929
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wallace, Edgar
+    alias: Wallace, Richard Horatio Edgar
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '999'
+    url: http://www.gutenberg.org/2009/agents/999
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Wallace
+description: A brilliant but maniacal scientist is determined to unleash a virulent
+  plague that threatens to drive humankind to the brink of extinction. The evil doctor
+  matches wits with two top-notch detectives, one of whom happens to be a young woman.
+  Fans of classic thrillers will relish every minute of The Green Rust.
+gutenberg_issued: '2008-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Mystery and detective stories'
+title: The Green Rust
+url: http://www.gutenberg.org/ebooks/24929
